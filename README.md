@@ -102,10 +102,10 @@ The frontend will run at **http://localhost:3000**.
 Here are some screenshots showcasing the application:
 
 ### Model Upload Page
-![Upload Page](pis/pic1.png)
+![Upload Page](demo1.png)
 
 ### 3D Model Viewer
-![3D Model Viewer](pis/pic2.png)
+![3D Model Viewer](demo2.png)
 
 ## Challenges and Solutions
 - **Loading Materials:** The .obj file required an associated .mtl file. This was handled using **MTLLoader** to load the materials before rendering the model.
